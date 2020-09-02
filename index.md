@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to my Site
 
-You can use the [editor on GitHub](https://github.com/RickvB98/rickvb98.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm Rick van Berkel, Software Engineering student at the University of Applied Sciences Utrecht.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Resume
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A copy of my latest resume can always be downloaded from the link below:
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Interactive version created in Microsoft Office 2003.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Questions or Contact
 
-### Jekyll Themes
+You can reach me on any of the below e-mail addresses :
+- Rick.Van.Berkel@outlook.com (alias)
+- rickvanberkel98@outlook.com
+- rickvanberkel98@gmail.com
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RickvB98/rickvb98.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
